@@ -14,8 +14,12 @@
 <!-- Decomposition of numbers -->
 ## Languages
 
+<<<<<<< HEAD
 * [python](python/)
 * [C++]()
 * [C]()
 * [PHP]()
 * [GO]()
+=======
+[python](https://github.com/aria3211/SPQ/tree/main/python)
+>>>>>>> 0410214d825a6442755afde37ad341490dcac972
