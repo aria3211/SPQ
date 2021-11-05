@@ -15,7 +15,7 @@
 
 
 * [python](https://github.com/aria3211/SPQ/tree/main/python)
-* [C++]()
-* [C]()
-* [PHP]()
-* [GO]()
+* [C++](https://github.com/aria3211/SPQ/tree/main/c%2B%2B/app)
+* [C](https://github.com/aria3211/SPQ/tree/main/c)
+* [PHP](https://github.com/aria3211/SPQ/tree/main/PHP)
+* [GO](https://github.com/aria3211/SPQ/tree/main/GO)
