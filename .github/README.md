@@ -14,4 +14,8 @@
 <!-- Decomposition of numbers -->
 ## Languages
 
-[python](python/)
+* [python](python/)
+* [C++]()
+* [C]()
+* [PHP]()
+* [GO]()
