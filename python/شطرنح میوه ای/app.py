@@ -1,5 +1,7 @@
 
-
+"""
+if you want know about question go to this website:https://quera.ir/problemset/60134/
+"""
 
 def first(frots):
     counter = {}
