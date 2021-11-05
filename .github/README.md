@@ -14,4 +14,4 @@
 <!-- Decomposition of numbers -->
 ## Languages
 
-[python](python/)
+[python](https://github.com/aria3211/SPQ/tree/main/python)
