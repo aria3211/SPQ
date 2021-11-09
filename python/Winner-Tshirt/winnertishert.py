@@ -1,5 +1,8 @@
 
- 
+
+
+"""Question from: https://quera.ir/problemset/3107/ """
+
 size_sarshoneh_ghad = input("Enter a size of T-shirt:").split()
 shonehsize = range(int(size_sarshoneh_ghad[0])+1)
 hight = range(int(size_sarshoneh_ghad[1])+1)
