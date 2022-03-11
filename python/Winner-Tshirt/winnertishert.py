@@ -31,7 +31,7 @@ for i in hight:
         break
 
 
-print(result)
+
 if __name__ == '__main__':
     counter = 0
     for i in result:
